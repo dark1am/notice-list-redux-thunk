@@ -1,0 +1,2 @@
+export const SET_NOTICE = 'SET_NOTICE'
+export const SET_READ_NOTICE = 'SET_READ_NOTICE'
